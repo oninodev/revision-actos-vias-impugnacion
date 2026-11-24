@@ -4,7 +4,7 @@ Material interactivo de Derecho Administrativo, publicado como sitio estático e
 
 ## Contenido
 
-- `index.html`: archivo original `01_revision_actos_vias_impugnacion.html`, conservado sin modificaciones.
+- `index.html`: archivo original `01_revision_actos_vias_impugnacion (1).html`, conservado sin modificaciones.
 - `.nojekyll`: sirve el sitio directamente, sin procesamiento de Jekyll.
 
 ## Publicación
